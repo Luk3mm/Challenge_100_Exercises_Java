@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Execice01_Calc/Execice01_Calc.iml" filepath="$PROJECT_DIR$/Execice01_Calc/Execice01_Calc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Exercicios-Aulas.iml" filepath="$PROJECT_DIR$/.idea/Java-Exercicios-Aulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SelecionadorNumeros/SelecionadorNumeros.iml" filepath="$PROJECT_DIR$/SelecionadorNumeros/SelecionadorNumeros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contadorNumeros/contadorNumeros.iml" filepath="$PROJECT_DIR$/contadorNumeros/contadorNumeros.iml" />
+    </modules>
+  </component>
+</project>
