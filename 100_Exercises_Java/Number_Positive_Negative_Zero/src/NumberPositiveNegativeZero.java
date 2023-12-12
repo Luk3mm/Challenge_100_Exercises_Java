@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class NumberPositiveNegativeZero {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int select = 1;
+        var select = 1;
 
         while(select == 1){
             System.out.println("Digite o numero: ");
