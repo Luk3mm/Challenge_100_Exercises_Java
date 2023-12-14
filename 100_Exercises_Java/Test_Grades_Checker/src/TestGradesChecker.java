@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TestGradesChecker {
+public class TestGradesChecker{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         var select = 1;
